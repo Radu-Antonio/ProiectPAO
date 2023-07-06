@@ -1,0 +1,13 @@
+am vizualizat pretul unei carti 23:27:43.850736400
+un client a luat o carte 23:27:55.995352500
+un client a returnat o carte 23:28:11.955284800
+am vizualizat suma de plata a unui clienta 23:28:23.382090400
+un client a luat o carte 23:28:31.370676200
+un client a luat o carte 23:28:34.170126
+am vizualizat suma de plata a unui clienta 23:28:39.465456400
+am vizualizat cartile unui client 23:28:50.263195300
+am vizualizat salariul unui angajat 23:29:05.802280600
+iesim din program 23:29:20.673087900
+am vizualizat clientii 23:31:16.258813900
+am vizualizat cartile librariei 23:31:17.460464600
+iesim din program 23:31:19.205672300
